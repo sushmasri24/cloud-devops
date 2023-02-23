@@ -1,1 +1,1 @@
-hello this is sample file
+hello this is sample file. Changing sample2.txt of master branch in remote repository.And i want this changes to be done on my local PC.
